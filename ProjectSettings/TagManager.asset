@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerShipTag
+  - EnemyShipTag
+  - PlayerLazerTag
+  - EnemyLazerTag
+  - MeteorTag
+  - BossBulletTag
+  - BossShip
+  - ScoreTextTag
+  - HealthEnemyTag
+  - FirstBossElectroBlast
+  - BossShip2
+  - ShieldTag
+  - HelpfulDropTag
+  - PlayerShieldTag
+  - ShieldDropTag
+  - AccelerationTag
+  - InvulnerablityTag
+  - DoubledamageTag
+  - LivesTextTag
+  - EnemySpawnerTag
+  - SpeedIconTag
+  - DDIconTag
+  - ShieldIconTag
+  - AccelerationPlayerTag
+  - LiveParticleTag
+  - DDPlayerTag
+  - FireButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Platforms
+  - Enemies
+  - Bullets
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2170481737
+    locked: 0
+  - name: Platforms
+    uniqueID: 893744435
+    locked: 0
+  - name: Enemies
+    uniqueID: 1114872581
+    locked: 0
+  - name: Bullets
+    uniqueID: 2597775099
+    locked: 0
+  - name: Player
+    uniqueID: 955642493
+    locked: 0
